@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "City-level restaurant data for Tustin, California. Filtered by the Restaurants category group, providing business profiles, review counts, contact information, and competitive benchmarks. Refreshed weekly.",
+  "config_name": "All Restaurants in Tustin, California, US",
+  "export_job_id": "92abe9cb-4d8a-46e8-a971-4dd94a04ce9b",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 482348,
+  "location_name": "Tustin",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-tustin-california-us-sample-482348",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/482348/beamstation_482348_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_pct": 9.92,
+  "sample_records": 26,
+  "sample_sha256": "26bc1c572aed7b1c719eec337c96c5dc1a513c2559bd44049cecce54a616995d",
+  "sample_size_bytes": 109993,
+  "total_records": 262,
+  "updated_at": "2026-04-09T10:26:25.455708+00:00"
+}
