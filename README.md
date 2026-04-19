@@ -1,6 +1,6 @@
 # All Restaurants in Tustin, California, US
 
-> Free BeamStation sample export with 26 rows and masked direct-contact fields.
+> Free BeamStation sample export with 25 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `482348` |
 | Location | Tustin |
 | Category | Restaurants |
-| Full dataset size | 262 records |
-| Free sample size | 26 records (9.92%) |
-| Last export | 2026-04-09T10:26:25.455708+00:00 |
+| Full dataset size | 258 records |
+| Free sample size | 25 records (9.69%) |
+| Last export | 2026-04-16T10:23:36.904523+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-tustin-california-us-sample-482348/releases/download/sample-latest/beamstation_482348_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
