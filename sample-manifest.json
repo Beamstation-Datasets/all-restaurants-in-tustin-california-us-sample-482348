@@ -1,12 +1,12 @@
 {
-  "export_job_id": "4f031e7d-a6a2-4ece-8715-4663a4479c81",
+  "export_job_id": "091df041-a881-4430-a376-cad4f9b8b0cc",
   "id_short": 482348,
-  "published_at": "2026-04-19T19:15:37Z",
+  "published_at": "2026-04-23T19:27:01Z",
   "repo_name": "all-restaurants-in-tustin-california-us-sample-482348",
   "sample_asset_name": "beamstation_482348_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/482348/beamstation_482348_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_records": 25,
-  "sample_sha256": "31044f106564c521c404fc4e0dc104155a653350bb67fa76d8d346d8aef449c2",
-  "sample_size_bytes": 112542,
-  "total_records": 258
+  "sample_sha256": "860f71b35753ff52fc66e5ee5ba06af5ece3e5b31bec8c93d164d221fa186604",
+  "sample_size_bytes": 111873,
+  "total_records": 252
 }
